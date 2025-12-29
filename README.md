@@ -1,6 +1,22 @@
-# 💫 About Me:
-🔭 Working on production-grade Java microservices<br>👯 Open to backend & API-focused collaborations<br>🤝 Improving system design & scalability patterns<br>🌱 Learning cloud-native & distributed systems<br>💬 Ask me about Spring Boot, Hibernate, REST, Databases<br>⚡ Fun fact: I optimize first, refactor later 😉
+💫 About Me
 
+🔭 Working on
+Production-grade Java backend systems & microservices using Spring Boot, Hibernate, and REST APIs.
+
+👯 Open to collaborate on
+Backend engineering, API-driven platforms, microservices, and scalable Java applications.
+
+🤝 Improving
+System design, multitenant SaaS architecture, scalability patterns, and performance optimization.
+
+🌱 Currently learning
+Cloud-native development (AWS), distributed systems, and advanced backend architecture.
+
+💬 Ask me about
+Spring Boot, Microservices, Hibernate/JPA, REST APIs, databases, Spring Security (JWT/RBAC), and backend performance tuning.
+
+⚡ Fun fact
+I’ve worked on high-traffic, revenue-impacting systems and enjoy optimizing backend workflows before refactoring them.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeeprajapati/) 
