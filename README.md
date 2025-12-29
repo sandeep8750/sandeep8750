@@ -1,22 +1,18 @@
-💫 About Me
+🧑‍💻 About Me
 
-🔭 Working on
-Production-grade Java backend systems & microservices using Spring Boot, Hibernate, and REST APIs.
+Results-driven Java Backend Developer with 3+ years of experience in designing, developing, and scaling high-performance backend systems. I specialize in Spring Boot, RESTful APIs, Microservices architecture, and secure, data-driven applications.
 
-👯 Open to collaborate on
-Backend engineering, API-driven platforms, microservices, and scalable Java applications.
+I have hands-on experience building enterprise-grade SaaS platforms, optimizing system performance, and delivering business-focused solutions that drive real impact — including 35% performance improvements and 25% growth in lead generation.
 
-🤝 Improving
-System design, multitenant SaaS architecture, scalability patterns, and performance optimization.
+I’m passionate about:
 
-🌱 Currently learning
-Cloud-native development (AWS), distributed systems, and advanced backend architecture.
+Clean & maintainable code
 
-💬 Ask me about
-Spring Boot, Microservices, Hibernate/JPA, REST APIs, databases, Spring Security (JWT/RBAC), and backend performance tuning.
+Scalable system design
 
-⚡ Fun fact
-I’ve worked on high-traffic, revenue-impacting systems and enjoy optimizing backend workflows before refactoring them.
+Secure backend architectures
+
+Cloud-ready & distributed systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeeprajapati/) 
