@@ -35,6 +35,9 @@ I’m passionate about:
 * **Microservices Architecture**
 * **Spring Security**, JWT, OAuth2, RBAC
 
+* ![Backend Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql&perline=6)
+
+
 ### 🔹 Databases
 
 * **MySQL**, PostgreSQL, Oracle
