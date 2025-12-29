@@ -35,7 +35,8 @@ I’m passionate about:
 * **Microservices Architecture**
 * **Spring Security**, JWT, OAuth2, RBAC
 
-* ![Backend Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql&perline=6)
+ ![Backend Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql&perline=6)
+ ![Architecture & Security](https://skillicons.dev/icons?i=spring,java&perline=6)
 
 
 ### 🔹 Databases
@@ -43,11 +44,17 @@ I’m passionate about:
 * **MySQL**, PostgreSQL, Oracle
 * Query Optimization & Performance Tuning
 
+  ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,oracle&perline=6)
+
+
 ### 🔹 Frontend (Working Knowledge)
 
 * HTML, CSS, Bootstrap
 * JavaScript, jQuery
 * Thymeleaf
+
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery&perline=6)
+![Thymeleaf](https://skillicons.dev/icons?i=thymeleaf)
 
 ### 🔹 DevOps & Tools
 
@@ -58,10 +65,15 @@ I’m passionate about:
 * Swagger / OpenAPI
 * Postman
 
+![DevOps](https://skillicons.dev/icons?i=git,github,maven,docker&perline=6)
+![Tools](https://skillicons.dev/icons?i=postman)
+
 ### 🔹 Cloud & Messaging
 
 * AWS (Foundational)
 * Apache Kafka (Basics)
+
+  ![Cloud & Messaging](https://skillicons.dev/icons?i=aws,kafka&perline=6)
 
 ---
 
