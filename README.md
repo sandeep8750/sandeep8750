@@ -1,30 +1,5 @@
 🧑‍💻 About Me
 
-Results-driven Java Backend Developer with 3+ years of experience in designing, developing, and scaling high-performance backend systems. I specialize in Spring Boot, RESTful APIs, Microservices architecture, and secure, data-driven applications.
-
-I have hands-on experience building enterprise-grade SaaS platforms, optimizing system performance, and delivering business-focused solutions that drive real impact — including 35% performance improvements and 25% growth in lead generation.
-
-I’m passionate about:
-
-Clean & maintainable code
-
-Scalable system design
-
-Secure backend architectures
-
-Cloud-ready & distributed systems
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeeprajapati/) 
-
-# 💻 Tech Stack:
-Perfect — thanks for sharing the full context.
-Below is a **production-ready, recruiter-friendly GitHub Profile README** crafted **exactly for a Java Backend Developer with 3+ years of experience**, aligned with your resume, LinkedIn, and real projects.
-
-You can copy-paste this directly into your **GitHub `README.md`** (profile repo named `sandeep8750`).
-
----
-
 # 👋 Hi, I'm Sandeep Prajapati
 
 🚀 **Java Backend Engineer | Spring Boot | Microservices | REST APIs**
