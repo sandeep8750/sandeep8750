@@ -176,30 +176,6 @@ I’m always open to:
 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sandeep-503593216/)
 
 ---
-## 📊 GitHub Stats
-
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeep8750&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep8750&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sandeep8750&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
-## 🚀 Tech Stack Badges
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JWT](https://img.shields.io/badge/JWT-Security-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazonaws)
-
----
 
 ## 🔥 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeep8750&style=for-the-badge&color=blue)
